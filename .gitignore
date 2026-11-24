@@ -1,0 +1,16 @@
+# SQLite 데이터베이스: 사용자별 개인 데이터이므로 GitHub에 업로드하지 않음
+*.db
+*.sqlite3
+
+# Python 캐시 및 생성 파일
+__pycache__/
+*.py[cod]
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 환경 변수 및 편집기 설정
+.env
+.vscode/
